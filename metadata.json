@@ -1,0 +1,6 @@
+{
+  "name": "Mayday: Fire on Board — VHF Radio Simulator & Prompt Studio",
+  "description": "Interactive maritime distress communication simulator and Google Flow cinematic video generation prompt studio for the KM Pariaman Indah emergency scenario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
